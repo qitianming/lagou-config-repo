@@ -1,0 +1,5 @@
+# lagou-config-repo
+mysql:
+  url: dev-http://localhost:3306/db100
+lagou:
+  message:hello lagou,100
